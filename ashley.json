@@ -1,4 +1,13 @@
 [
+   {
+    "id": 211,
+    "name": "House",
+    "imageUrl": "https://raw.githubusercontent.com/ashley2121/ash.json/master/wew.png",
+    "priceCurrency": "₱",
+    "price": 3500000,
+    "lat": 16.6167,
+    "lng": 120.3167
+  },
   {
     "id": 148,
     "name": "Pugad Resort",
@@ -52,14 +61,5 @@
     "price": 250,
     "lat": 16.6583,
     "lng": 120.3216
-  },
-    {
-    "id": 211,
-    "name": "House",
-    "imageUrl": "https://raw.githubusercontent.com/ashley2121/ash.json/master/wew.png",
-    "priceCurrency": "₱",
-    "price": 3500000,
-    "lat": 16.6167,
-    "lng": 120.3167
   }
 ]
