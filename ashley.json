@@ -8,6 +8,15 @@
     "lat": 16.6167,
     "lng": 120.3167
   },
+   {
+    "id": 210,
+    "name": "Kultura",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place5.jpg",
+    "priceCurrency": "PHP",
+    "price": 250,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
   {
     "id": 148,
     "name": "Pugad Resort",
@@ -43,15 +52,6 @@
     "price": 1250,
     "lat": 16.5264,
     "lng": 120.3294
-  },
-  {
-    "id": 210,
-    "name": "Kultura",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place5.jpg",
-    "priceCurrency": "PHP",
-    "price": 250,
-    "lat": 16.3188,
-    "lng": 120.4687
   },
   {
     "id": 211,
