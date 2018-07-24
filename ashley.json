@@ -1,14 +1,5 @@
 [
   {
-    "id": 145,
-    "name": "Halo-halo de iloko",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place1.jpg",
-    "priceCurrency": "₱",
-    "price": 250,
-    "lat": 16.6167,
-    "lng": 120.3197
-  },
-  {
     "id": 148,
     "name": "Pugad Resort",
     "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place2.jpg",
@@ -26,6 +17,15 @@
     "lat": 16.8472,
     "lng": 120.3517
   },
+   {
+    "id": 145,
+    "name": "Halo-halo de iloko",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place1.jpg",
+    "priceCurrency": "₱",
+    "price": 250,
+    "lat": 16.6167,
+    "lng": 120.3197
+  },
   {
     "id": 205,
     "name": "Marand Resort",
@@ -37,7 +37,7 @@
   },
   {
     "id": 210,
-    "name": "Splash Wave Resort",
+    "name": "Kultura",
     "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place5.jpg",
     "priceCurrency": "PHP",
     "price": 250,
