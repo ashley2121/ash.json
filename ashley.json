@@ -58,7 +58,7 @@
     "name": "House",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/ash.json/master/wew.png",
     "priceCurrency": "₱",
-    "price": 0,
+    "price": 5000000,
     "lat": 16.6167,
     "lng": 120.3167
   }
